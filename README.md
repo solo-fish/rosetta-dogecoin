@@ -263,4 +263,4 @@ and run one of the following commands:
 ## License
 This project is available open source under the terms of the [Apache 2.0 License](https://opensource.org/licenses/Apache-2.0).
 
-rosetta-bitcoin is © 2020 Coinbase
+rosetta-dogecoin is © 2021 Rosetta Dogecoin Developers
